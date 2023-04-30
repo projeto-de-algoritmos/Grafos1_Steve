@@ -44,7 +44,7 @@ int main(int argc, char **argv)
 
         }
 
-        putchar_unlocked('\n');
+        printf("\n");
 
     }
 
