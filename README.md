@@ -1,9 +1,4 @@
-
-
-Temas:
- - Grafos1
-
-# Grafos1_Steve
+# Grafos1_Steve 🧑
 
 **Número da Lista**: 1 <br>
 **Conteúdo da Disciplina**: Grafos 1 <br>
@@ -28,7 +23,8 @@ Execução da Questão [1583 - Contaminação](https://github.com/projeto-de-alg
 
 ## Instalação 
 
-- Não é necessário nenhum requisito além de possuir uma conta no beecrowd para poder utilizar o juiz online
+**Linguagens:** C++ e C
+
 
 ## Uso 
 
