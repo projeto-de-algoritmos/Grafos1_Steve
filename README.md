@@ -17,8 +17,17 @@ Execução da Questão [1907 - Coloração de Cenários de Jogos](https://github
 ![image](https://user-images.githubusercontent.com/71983200/235367528-74097459-7888-4b23-bf7e-6df4e1204fb8.png)
 
 
-Execução da Questão [1583 - Contaminação](https://github.com/projeto-de-algoritmos/Grafos1_Steve/tree/master/quest%C3%B5esGrafo1/Thiago/1583%20-%20Contamina%C3%A7%C3%A3o) en C++
+Execução da Questão [1583 - Contaminação](https://github.com/projeto-de-algoritmos/Grafos1_Steve/tree/master/quest%C3%B5esGrafo1/Thiago/1583%20-%20Contamina%C3%A7%C3%A3o) em C++
 ![image](https://user-images.githubusercontent.com/71983200/235367266-f52fd938-0f0d-486a-9742-95990b623183.png)
+
+Execução da Questão [1128 - Ir e Vir](https://github.com/projeto-de-algoritmos/Grafos1_Steve/tree/master/quest%C3%B5esGrafo1/Pablo) em C
+
+![image](https://user-images.githubusercontent.com/71983200/235379476-0e68e928-25fb-448f-9646-5b17164c66fe.png)
+
+
+Execução da Questão [1148 - Paises em Guerra](https://github.com/projeto-de-algoritmos/Grafos1_Steve/tree/master/quest%C3%B5esGrafo1/Pablo) em C
+
+![image](https://user-images.githubusercontent.com/71983200/235379375-ed20d2cc-10af-40ff-9564-8ff9337910b9.png)
 
 
 ## Instalação 
